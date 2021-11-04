@@ -5,14 +5,13 @@ body{
 .box{
     color: white;
     position: absolute;
-    top: 50%;
+    top: 65%;
     left: 50%;
     transform: translate(-50%,-50%);
     background-color: rgba(0, 0, 0, 0.6);
     padding: 15px;
     border-radius: 15px;
-    width: 60%;
-    height: auto;
+    
 }
 fieldset{
     border: 3px solid dodgerblue;
